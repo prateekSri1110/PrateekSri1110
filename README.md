@@ -5,6 +5,7 @@
 🤝 Looking to collaborate on exciting projects.  
 📫 Connect with me: [LinkedIn](https://www.linkedin.com/in/prateek-srivastava-1005/)
                     [LeetCode](https://leetcode.com/u/prateekxri/)
+                    [Instagram](https://www.instagram.com/prateekxri/)
                     
 ## Programming Languages:
 ![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
