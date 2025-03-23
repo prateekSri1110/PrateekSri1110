@@ -22,3 +22,9 @@
 
 ## GitHub Stats:
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=PrateekSri1110&show_icons=true&theme=dark)
+
+## Most Used Languages:
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=dark)
+
+## GitHub Streak Stats:
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=PrateekSri1110&theme=dark)
