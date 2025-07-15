@@ -1,7 +1,7 @@
 # Hi there 👋! I'm [Prateek Srivastava]
 
 🚀 Passionate about Full Stack Development.  
-💻 Currently solving LeetCode problems in Java / MySQL / C++ & learning Web Development.  
+💻 Currently solving LeetCode problems in Java / MySQL & learning Web Development.  
 🤝 Looking to collaborate on exciting projects.  
 📫 Connect with me: [LinkedIn](https://www.linkedin.com/in/prateek-srivastava-1005/)
                     [LeetCode](https://leetcode.com/u/prateekxri/)
@@ -18,8 +18,10 @@
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-4479A1?style=flat&logo=bootstrap&logoColor=blue)
+
+## Database:
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 
 ## GitHub Stats:
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=PrateekSri1110&show_icons=true&theme=dark)
